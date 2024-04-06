@@ -2,7 +2,7 @@
 
 I'm Hala, Welcome! 👩🏽‍💻
 
-- 💻 I’m a Senior Software Engineering at University of Jeddah.
+- 💻 I’m a Fresh graduate Software Engineer at University of Jeddah.
 - 📱 I'm Interested in Web, Mobile Application Development.
 - ⌨️ Willing to learn, Flexible and interested in solving any problems.
 - 📫 How to reach me: Linked In, Email me.
